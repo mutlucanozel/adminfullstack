@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+  }
+  
+  .delete-button {
+    background-color: #e00f00;
+    border: none;
+    color: rgb(215, 43, 43);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 46px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  ::placeholder {
+    color: #f3b414;
+    
+  }
+  
+
+.custom-file-upload {
+    border: 3px solid #f3b414;
+    color: #f3b414;
+    display: inline-block;
+    padding: 6px 120px;
+    cursor: pointer;
+    width: 350px;
+}
+  .container {
+    background-color: white;
+    padding: 6rem 36rem;
+    padding-bottom: 2rem;
+    border-radius: 0.5rem;
+    border-top: rgb(215, 218, 251) 0.5rem solid;
+  }
+
+  h2 {
+    margin: 1rem 6;
+    font-size: 1.2rem;
+    color: #f3b414;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
+  }
+  
+  form div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+  
+  select {
+    padding: 0.3rem;
+    height: 5vh;
+    text-align: center;
+    width: 18.5vw;
+    border-radius: 0.3rem;
+    background-color: transparent;
+    color: rgba(243, 180, 20, 0.95);
+    border: 1px solid rgba(235, 233, 230, 0.95);
+    font-size: 1.1rem;
+  }
+  input {
+    padding: 0.5rem;
+    border-radius: 0.6rem;
+    background-color: transparent;
+    color: white;
+    border: 1px solid rgba(243, 180, 20, 0.95);
+    font-size: 1.1rem;
+  }
+  
+  button {
+    background-color: rgba(243, 180, 20, 0.95);
+    color: rgb(38, 9, 47);
+    border: none;
+    padding: 0.5rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 0.3rem;
+  }
+  
+  span a {
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 2rem;
+    color:  rgb(49, 132, 146);
+  }
+  .spana {
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 2rem;
+    color:  rgb(49, 132, 146);
+  }
+
+  
+  .private {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(80, 98, 255);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .private button {
+    background-color: black;
+    padding: 2rem 10rem;
+    font-size: 4rem;
+    border-radius: 2rem;
+  }
