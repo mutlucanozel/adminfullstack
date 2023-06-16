@@ -1,4 +1,4 @@
-# FullStack 
+# FullStack Admin Panel
                                                           Dashboard
 <img width="1440" alt="Ekran Resmi 2023-06-16 17 00 07" src="https://github.com/mutlucanozel/adminfullstack/assets/125356427/4868ccca-8bf8-4d8a-a0a8-dede06843731">
 
